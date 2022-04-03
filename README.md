@@ -9,16 +9,16 @@ Os links de downloads são pegos através de **requests**
 
 Coloque no terminal:
 ```
-git clone https://github.com/novodias/BAD-py.git
-rm -i .git
+$ git clone https://github.com/novodias/BAD-py.git
+$ rm -i .git
 ```
 Caso não tenha o **Git**, basta baixar o source-code.
 
 Execute o `bad.py` com o python, dependendo da distro, o comando pode ser diferente:
 ```
-py bad.py
-python bad.py
-python3 bad.py
+$ py bad.py
+$ python bad.py
+$ python3 bad.py
 ```
 
 #
